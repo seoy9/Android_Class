@@ -1,0 +1,4 @@
+#Mon Dec 14 17:15:07 KST 2020
+base.0=C\:\\work\\class01\\week14\\SensorListenerTest_sample\\SensorListenerTest_sample\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

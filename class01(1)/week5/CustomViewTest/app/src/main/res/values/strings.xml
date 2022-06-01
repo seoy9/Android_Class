@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomViewTest</string>
+    <string name="btn_name">CIRCLE DRAW</string>
+</resources>

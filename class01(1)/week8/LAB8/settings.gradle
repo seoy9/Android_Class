@@ -1,0 +1,2 @@
+rootProject.name='LAB8'
+include ':app'

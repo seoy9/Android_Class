@@ -1,0 +1,2 @@
+rootProject.name='AdapterViewTest01'
+include ':app'
